@@ -1,2 +1,2 @@
 # ayudantias
-Ayudantías de varios cursos.
+Ayudantías que he dictado, de varios cursos.
